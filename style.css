@@ -35,3 +35,37 @@ body {
     height: 200px;
     object-fit: cover;
 }
+
+/* Coffee cards */
+
+.card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card-img-top {
+    border-radius: 15px 15px 0 0;
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 15px;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: #4b2614;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #6c757d;
+}
+
+.section_name {
+    font-family: kingo;
+    border-bottom: 2px solid goldenrod;
+}

@@ -36,7 +36,7 @@ body {
     position: sticky;
     top: 0;
     z-index: 3;
-    background-color: red;
+    background-color: black;
 }
 
 .card img {
